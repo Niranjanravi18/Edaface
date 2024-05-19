@@ -1,0 +1,155 @@
+.footer{
+    display: flex;
+}
+
+.company-lists li a{
+    text-decoration: none;
+    color:  rgb(70, 70, 70);
+} 
+
+.company-lists{
+    list-style: none;
+    line-height: 27px;
+    word-spacing: 3px;
+}
+
+.company{
+    margin-left: 38px;
+    color: rgb(28, 85, 156);
+}
+
+.set1{
+    margin-left: 328px;
+    padding: 10px;
+    margin-top:20px;
+}
+
+.product-lists li a{
+    text-decoration: none;
+    color: rgb(70, 70, 70);
+}
+
+.product-lists{
+    list-style: none;
+    line-height: 27px;
+    word-spacing: 2px;
+}
+
+.products{
+    margin-left: 38px;
+    color: rgb(28, 85, 156);
+}
+
+.set2{
+    margin-left: 45px;
+    padding: 10px;
+    margin-top:20px;
+}
+
+.subs{
+    color: rgb(28, 85, 156);
+    word-spacing: 2px;
+}
+
+.input-text{
+    border-radius: 18px;
+    width: 250px;
+    padding: 7px;
+    height: 22px;
+    text-indent: 11px;
+    border: 1px solid rgb(28, 85, 156);
+    clip-path: inset(0 50px 0 0);
+}
+
+.subscribe{
+    color: white;
+    background-color: rgb(28, 85, 156);
+    border-radius: 25px;
+    padding: 10px;
+    height: 39px;
+    font-size: medium;
+    width: 110px;
+    position: relative;
+    right: 120px;
+}
+
+.companyTitle{
+    position: relative;
+    bottom: 80px;
+    left: 64px;
+    color: rgb(28, 85, 156);
+}
+
+.inputButton{
+    position: relative;
+    bottom: 90px;
+}
+
+.subs{
+    position: relative;
+    bottom: 87px;
+}
+
+.set3{
+    margin-left: 59px;
+}
+
+.legal-lists li a{
+    text-decoration: none;
+    color: rgb(70, 70, 70);
+} 
+
+.legal-lists{
+    list-style: none;
+    line-height: 27px;
+    word-spacing: 2px;
+}
+
+.legal{
+    margin-left: 40px;
+    color: rgb(28, 85, 156);
+}
+
+.set4{
+    position: relative;
+    right: 82px;
+    padding: 10px;
+    margin-top:20px;
+}
+
+.community-lists li a{
+    text-decoration: none;
+    color: rgb(70, 70, 70);
+} 
+
+.community-lists{
+    list-style: none;
+    line-height: 27px;
+    word-spacing: 3px;
+}
+
+.communities{
+    margin-left: 38px;
+    color: rgb(28, 85, 156);
+}
+
+.set5{
+    position: relative;
+    right: 40px;
+    padding: 10px;
+    margin-top:20px;
+}
+
+.greyLine{
+    position: relative;
+    bottom: 40px;
+}
+
+.end{
+    color: rgb(70, 70, 70);
+    font-size: 12px;
+    word-spacing: 2px;
+    margin-left: 40%;
+    position: relative;
+    bottom: 70px;
+}

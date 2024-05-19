@@ -1,0 +1,302 @@
+.main {
+    position: relative;
+    top: 40px;
+    background-color: whitesmoke;
+    /* height: 100vh; */
+}
+
+.hot, .creators-title, .live, .recent-title{
+    /* padding: 2%; */
+    color: #064d9a;
+    text-align: center;
+    font-size: 44px;
+}
+
+.hot{
+    position: relative;
+    top: 10px;
+}
+
+.image-carousel{
+    display: flex;
+    padding: 10px;
+}
+
+.wrap-content{
+    position: relative;
+    bottom: 150px;
+}
+
+.wrap-content2{
+    position: relative;
+    bottom: 27px;
+}
+
+.wrap-content3{
+    position: relative;
+    bottom: 27px;
+}
+
+.wrap-content4{
+    position: relative;
+    bottom: 150px;
+}
+
+.wrap-content5{
+    position: relative;
+    bottom: 65px;
+}
+
+#img1, #img2, #img3, #img4{
+    width: 230px;
+    border: none;
+    border-radius: 5px;
+    height: 285px;
+    border: 1px solid rgb(195, 193, 193); 
+    box-shadow: 8px 8px 8px  #222;
+}
+
+#img1{
+    margin-left: 19%;
+}
+
+#img2, #img3, #img4{
+    margin-left: 3%;
+}
+
+.rightTriangle{  
+    position: relative;
+    left: 323px;
+    bottom: 178px;  
+}
+
+.leftTriangle{
+    position: relative;
+    left: 1320px;
+    bottom: 178px;  
+}
+
+.left{
+    position: relative;
+    left: 355px;
+    bottom: 194px;
+}
+
+.right{
+    position: relative;
+    left: 1363px;
+    bottom: 194px;
+}
+
+.caption1, .caption3{
+    font-weight: lighter;
+    font-size: 18px;
+    margin-left: 33%;
+    position: relative;
+    bottom: 4px;
+}
+
+.caption2, .caption4{
+    font-weight: lighter;
+    font-size: 18px;
+    margin-left: 30%;
+    position: relative;
+    bottom: 37px;
+}
+
+.collections1, .collections2{
+    display: flex;
+    padding: 10px;
+    margin-top: 1.8%;
+}
+
+#neon1, #neon5{
+    margin-left: 19%;
+    width: 230px;
+    border: none;
+    border-radius: 5px;
+    height: 70px;
+    border: 1px solid rgb(195, 193, 193); 
+    box-shadow: 8px 8px 8px  #222;
+    background-color: rgb(211, 232, 250);
+}
+
+#neon2, #neon3, #neon4, #neon6, #neon7, #neon8{
+    width: 230px;
+    border: none;
+    border-radius: 5px;
+    height: 70px;
+    border: 1px solid rgb(195, 193, 193); 
+    box-shadow: 8px 8px 8px  #222;
+    margin-left:3%;
+    background-color: rgb(211, 232, 250);
+}
+
+.item1, .item5{
+    color: rgb(103, 181, 249); 
+}
+
+.quote1, .quote5{
+    color: #061270;
+}
+
+.item1, .quote1, .item5, .quote5{
+    margin-left: 35%;
+    margin-bottom: 0;
+    position: relative;
+    bottom: 70px;
+    font-size: 18px;
+}
+
+.items{
+    color: rgb(103, 181, 249);
+}
+
+.quote{
+    color: #061270;
+
+}
+
+.quote, .items{
+    margin-left: 35%;
+    margin-bottom: 0;
+    position: relative;
+    bottom: 70px;
+    font-size: 18px;
+}
+
+#women1, #women2, #women3, #women4{
+    width: 230px;
+    border: none;
+    border-radius: 20px;
+    border: none;
+    height: 340px;
+    /* border: 1px solid rgb(195, 193, 193);  */
+    box-shadow: 8px 8px 8px  #222;
+}
+
+#women1{
+    margin-left: 19%;
+}
+
+#women2, #women3, #women4{
+    margin-left: 3%;
+}
+
+.women-nft {
+    display: flex;
+    padding: 10px;
+    margin-top: 1.8%;
+}
+
+.wom-img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.content{
+    display: flex;
+    position: relative;
+    /* bottom: 150px; */
+    margin-left: 1%;
+}
+
+.img-cap{
+    display: flex;
+}
+
+.captions{
+    font-size: 12px;
+    position: relative;
+    bottom: 20px;
+}
+
+.nft-wom{
+    color: rgb(18, 70, 116);
+}
+
+.icon{
+    position: relative;
+    bottom: 12px;
+}
+
+.robert{
+    position: relative;
+    bottom: 72px;
+    color: rgb(38, 114, 180);
+}
+
+.lorem{
+    position: relative;
+    bottom: 98px;
+}
+
+.heart{
+    position: relative;
+    bottom: 89px;
+}
+
+.number{
+    position: relative;
+    bottom: 122px;
+    margin-left: 210%;
+    color: rgb(78, 75, 75);
+}
+
+.bid{
+    color: rgb(78, 75, 75);
+}
+
+.twelve, .five, .three{
+    width: 20px;
+    height: 20px;
+    background-color: #064d9a;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+.time{
+    /* font-size: 10px; */
+    position: relative;
+    left: 48%;
+    bottom: 210px;
+}
+
+.recent-captions{
+    font-size: 12px;
+    position: relative;
+    bottom: 1px;
+}
+
+.fourstar{
+    width: 160px;
+    height: 150px;
+    position: relative;
+    left: 44%;
+    bottom: 98px;
+}
+
+.threestar{
+    width: 90px;
+    height: 28px;
+    position: relative;
+    left: 59%;
+    bottom: 39px;
+}
+
+.fivestar{
+    width: 110px;
+    height: 65px;
+    position: relative;
+    left: 54%;
+    bottom: 56px;
+}
+
+.load{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 60px;
+    margin-right: 5%;
+}
